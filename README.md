@@ -1,1 +1,3 @@
 # CrowdFunding-decentralized-App-using-Ethereum-Blockchain--
+# Abstract
+The rise of Blockchain technology enables us to create secure, trusted and decentralized apps. Crowdfunding is an online money raising strategy that uses small amounts of capital from a large number of individuals which finance a new business project. Crowdfunding makes use of the easy accessibility of vast networks of people through social media and crowdfunding websites to bring investors and entrepreneurs together. The main problem with the current websites is that they don’t provide the Contributor Assured Policy and they don’t have control over the money they donated. So, by using blockchain we can provide a safe, secure and transparent way for crowdfunding.
